@@ -5,16 +5,20 @@ Esse arquivo contém 2 diretórios e o arquivo de início do Docker docker-compo
 
 # Alguns comandos importantes
 - docker ps
+
 Listar os containers que estão rodando
 
 - docker ps -a
+
 Listar os container que não estão rodando
 
 - docker stop [id]
+
 Pára o container
 
 - docker rm [id]
+
 Remove/Apaga um container
 
-#Subir container
+# Subir container
 - docker compose up -d
