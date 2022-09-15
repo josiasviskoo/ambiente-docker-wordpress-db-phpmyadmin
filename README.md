@@ -22,3 +22,7 @@ Remove/Apaga um container
 
 # Subir container
 - docker compose up -d
+
+# iniciar
+
+1) git clone https://github.com/josiasviskoo/docker-wordpress-db-phpmyadmin.git
